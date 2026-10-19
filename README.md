@@ -3,7 +3,7 @@
 
 **Group project on C programming at ALX software engineering**
 By
-- **Solomon Ferede - solomonf1227@gmail.com** and
+- **Solomon Ferede - solomonferede@gmail.com** and
 - **Mesfin Fikrea - https://github.com/mesfik**
 ## Requirements
 ### General
